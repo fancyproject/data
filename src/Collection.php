@@ -23,7 +23,7 @@ class Collection extends \ArrayIterator
     /**
      * Returns new instance of collection of the same type
      *
-     * @return Collection
+     * @return static
      */
     public function getNewCollection()
     {
